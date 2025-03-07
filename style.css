@@ -99,7 +99,6 @@ h1 {
     border-bottom: 0.35rem solid var(--lt-violet2);
 }
 
-
 .length-container {
     display: flex;
     justify-content: space-between;
@@ -197,6 +196,7 @@ h1 {
     background-color: transparent;
     border:none;
     outline:none;
+    cursor: pointer;
 }
 
 .tooltip {
